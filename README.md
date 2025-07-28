@@ -1,5 +1,5 @@
 # Physics_Informed_Neural_Nets_PINNs
-Some classic Physics-based Differential Equations solved with the help of Neural Networks
+Some classic Physics-based Differential Equations solved with the help of Neural Networks. GPT is integrated to dynamically control the training process. Results are compared with Analytical solutions.
 
 ![Comparison](Images/Comparison.png)
 
